@@ -1,9 +1,10 @@
 @media (max-width: 768px) {
   .vfrc-chat--overlay {
-    width: 85vw !important;    /* Makes chat narrower horizontally */
-    height: 65vh !important;   /* Makes chat shorter vertically */
-    bottom: 90px !important;   /* Moves chat higher from bottom */
-    right: 10.5vw !important;   /* Centers chat horizontally */
-    border-radius: 30px !important; /* Optional rounded corners */
+    width: 75vw !important;    /* even narrower chat window */
+    height: 55vh !important;   /* even shorter vertically */
+    bottom: 100px !important;  /* raises chat higher from bottom */
+    left: 5vw !important;      /* moves chat clearly to the LEFT side */
+    right: auto !important;    /* ensures positioning works from left */
+    border-radius: 10px !important; /* rounded corners */
   }
 }
