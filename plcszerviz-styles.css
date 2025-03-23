@@ -3,7 +3,7 @@
     width: 85vw !important;    /* Makes chat narrower horizontally */
     height: 65vh !important;   /* Makes chat shorter vertically */
     bottom: 90px !important;   /* Moves chat higher from bottom */
-    right: 7.5vw !important;   /* Centers chat horizontally */
-    border-radius: 10px !important; /* Optional rounded corners */
+    right: 10.5vw !important;   /* Centers chat horizontally */
+    border-radius: 30px !important; /* Optional rounded corners */
   }
 }
