@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+  .vfrc-launcher {
+    bottom: 20px; /* Raises the bubble higher from the bottom */
+    right: 20px;  /* Adjusts the bubble's position from the right edge */
+    transform: scale(0.8); /* Scales down the bubble size */
+  }
+
+  .vfrc-chat--overlay {
+    width: 90vw;  /* Sets the chatbox width to 90% of the viewport width */
+    height: 70vh; /* Sets the chatbox height to 70% of the viewport height */
+    bottom: 100px; /* Raises the chatbox higher from the bottom */
+    right: 5vw;   /* Centers the chatbox horizontally */
+  }
+}
