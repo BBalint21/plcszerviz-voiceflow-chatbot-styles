@@ -1,5 +1,5 @@
 @media (max-width: 768px) {
   .vfrc-launcher {
-    bottom: 100px !important; /* Moves the chat bubble up by 100px */
+    transform: scale(0.8) !important; /* Reduces the size of the chat bubble to 80% */
   }
 }
