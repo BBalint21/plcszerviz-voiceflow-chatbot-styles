@@ -15,9 +15,3 @@
     right: 7.5vw !important;  /* centers horizontally */
     border-radius: 10px !important; /* adds border radius for clear visibility */
   }
-
-  /* Very noticeable test style to confirm CSS is loaded */
-  .vfrc-system-response .vfrc-message {
-    background-color: yellow !important; /* bright yellow to easily confirm */
-  }
-}
