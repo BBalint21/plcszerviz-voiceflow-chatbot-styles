@@ -11,4 +11,9 @@
     bottom: 100px; /* Raises the chatbox higher from the bottom */
     right: 5vw;   /* Centers the chatbox horizontally */
   }
+
+  /* Test Style: Change assistant message background to yellow */
+  .vfrc-system-response .vfrc-message {
+    background-color: yellow;
+  }
 }
