@@ -1,10 +1,5 @@
 @media (max-width: 768px) {
   .vfrc-chat--overlay {
-    width: 75vw !important;    /* even narrower chat window */
-    height: 55vh !important;   /* even shorter vertically */
-    bottom: 100px !important;  /* raises chat higher from bottom */
-    left: 5vw !important;      /* moves chat clearly to the LEFT side */
-    right: auto !important;    /* ensures positioning works from left */
-    border-radius: 10px !important; /* rounded corners */
+    bottom: 120px !important; /* Raises chat overlay higher from bottom */
   }
 }
