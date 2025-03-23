@@ -5,11 +5,10 @@
     transform: scale(0.8); /* Scales down the bubble size */
   }
 
-/* Adjust the chat box size and position */
   .vfrc-chat--overlay {
-    width: 80vw;  /* Sets the chat box width to 80% of the viewport width */
-    height: 80vh; /* Sets the chat box height to 80% of the viewport height */
-    bottom: 10vh; /* Positions the chat box 10% of the viewport height from the bottom */
-    right: 10vw;  /* Positions the chat box 10% of the viewport width from the right */
+    width: 90vw;  /* Sets the chatbox width to 90% of the viewport width */
+    height: 70vh; /* Sets the chatbox height to 70% of the viewport height */
+    bottom: 100px; /* Raises the chatbox higher from the bottom */
+    right: 5vw;   /* Centers the chatbox horizontally */
+  }
 }
-
